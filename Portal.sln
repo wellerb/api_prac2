@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Captive_Portal", "Glossary\Captive_Portal.csproj", "{A40EB168-8801-4880-AF87-F96FE07F25FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIConsume", "APIConsume\APIConsume.csproj", "{D2330C21-375D-47EF-AD4E-31D4F6811CDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A40EB168-8801-4880-AF87-F96FE07F25FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40EB168-8801-4880-AF87-F96FE07F25FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40EB168-8801-4880-AF87-F96FE07F25FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40EB168-8801-4880-AF87-F96FE07F25FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2330C21-375D-47EF-AD4E-31D4F6811CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2330C21-375D-47EF-AD4E-31D4F6811CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2330C21-375D-47EF-AD4E-31D4F6811CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2330C21-375D-47EF-AD4E-31D4F6811CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
